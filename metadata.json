@@ -1,0 +1,6 @@
+{
+  "name": "PostDrop File-to-Email API",
+  "description": "HTTP POST Datei-Upload-API mit automatischer Weiterleitung als E-Mail-Anhang an eine konfigurierbare Zieladresse.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
